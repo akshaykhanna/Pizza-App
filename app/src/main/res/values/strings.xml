@@ -1,7 +1,42 @@
 <resources>
-    <string name="app_name">Pizza</string>
+    <string name="app_name">Pizza Palace</string>
     <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="action_create_order">Create Order</string>
     <string name="title_activity_create_order">CreateOrder</string>
     <string name="action_share">Share</string>
+    <string name="tv_top_frag_pizza">Top Fragment:Pizza Palace</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+
+
+    <string-array name="list_pizzas">
+        <item>Farmhouse</item>
+        <item>Countryside</item>
+        <item>Pan Pizza</item>
+        <item>Veg Doubles</item>
+    </string-array>
+
+    <string-array name="list_pastas">
+        <item>Pastas with Sauce</item>
+        <item>Tomato Tango</item>
+        <item>Macroni</item>
+    </string-array>
+
+    <string-array name="list_stores">
+        <item>Phoenix Mall</item>
+        <item>Bakers Street</item>
+        <item>Dariyaganj</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>Home</item>
+        <item>Pizzas</item>
+        <item>Pasta</item>
+        <item>Stores</item>
+        <item>Number and objects</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
 </resources>
